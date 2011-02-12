@@ -1,0 +1,6 @@
+{
+	"name" : "Pauser",
+	"description" : "Add a pause (time delay) between two applets in OpenVBX",
+    "type" : "voice",
+	"order" : 1
+}

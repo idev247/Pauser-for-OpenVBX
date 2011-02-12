@@ -1,0 +1,6 @@
+{
+    "name" : "Pauser",
+    "author" : "iDev247 <idev247@gmail.com>",
+    "description" : "Add a pause (time delay) between two applets in OpenVBX",
+    "url" : "https://github.com/idev247/Pauser-for-OpenVBX"
+}
